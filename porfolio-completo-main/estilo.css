@@ -237,7 +237,7 @@
         /* *********************/
         
         #caracteristicas {
-            background: linear-gradient( #934580af, rgb(75, 17, 62)), url("img/foto\ tecnologia1.jpg");
+            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/foto\ tecnologia1.jpg");
             
             background-position: center center;
             
@@ -275,7 +275,7 @@
         #estudios {
             padding: 100px 15px;
             text-align: center;
-            background-color: #ff507f79;
+            background-color: #ff507f73;
         }
         
         #estudios .titulo-seccion {
@@ -350,7 +350,7 @@
         #experienciaLaboral{
             padding: 100px 15px;
             text-align: center;
-            background-color: #ff507f79;
+            background-color: #ff507f73;
         }
         
         #experienciaLaboral  .titulo-seccion {
@@ -620,7 +620,7 @@
         
         #contacto {
             padding: 100px 15px;
-            background-color: #f377bb96;
+            background-color: #ff507fa6;
         }
         
         #contacto .titulo-seccion {
